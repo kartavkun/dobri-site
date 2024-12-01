@@ -156,7 +156,7 @@ body {
 	font-weight: 500;
 	font-size: 12pt;
 	visibility: hidden;
-	width: 90px;
+	width: 120px;
 	background-color: #555;
 	color: #fff;
 	text-align: center;
@@ -166,7 +166,7 @@ body {
 	z-index: 1;
 	bottom: 115%;
 	left: 50%;
-	margin-left: -45px;
+	margin-left: -60px;
 	opacity: 0;
 	transition: opacity 0.15s;
   }
