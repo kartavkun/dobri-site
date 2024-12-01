@@ -1,0 +1,9 @@
+.standart {
+    background-color: #272727;
+    border: solid #272727 1px; 
+}
+
+.standart:hover {
+    background-color: #ffb100;
+    /* border: solid #ffb100 2px;  */
+}
