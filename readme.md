@@ -1,2 +1,3 @@
-# visitka
-визитка с моими ссылками, стоит на [dobri.fun](https://dobri.fun)
+# DOBRI
+
+Участники скавада можно глянуть здесь - [dobri.fun](https://dobri.fun)
