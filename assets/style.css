@@ -70,9 +70,10 @@ body {
 }
 
 .links {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #272727;
-    /* background-color: rgba(255, 255, 255, 0.0 ); */
     color: #ffffff;
     font-family: var(--font);
     text-align: center;
@@ -83,6 +84,11 @@ body {
     font-weight: bold;
     transition: all .25s cubic-bezier(.08, .59, .29, .99);
     border: solid #272727 2px;
+}
+
+.links img {
+    display: block;
+    margin: 0 auto;
 }
 
 .links:hover {
