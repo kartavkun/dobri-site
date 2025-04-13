@@ -9,16 +9,19 @@ body {
     background: #0e0e0f;
     opacity:0;
     transition:.25s;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
 }
 
 @media only screen and (min-width: 600px) {
 #body {
-	max-width: 650px;
-	margin: auto;
-	position: absolute;
-    left: 50%;
-    top: 50%;
-	transform: translate(-50%, -50%);
+    max-width: 650px;
+    margin: auto;
+    padding: 2rem 1rem;
 }
 }
 
